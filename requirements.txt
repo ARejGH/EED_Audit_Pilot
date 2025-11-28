@@ -1,0 +1,21 @@
+# EED Audit Pilot - Python Dependencies
+
+# OpenAI API (for both local Llama 3 and GPT-4o)
+openai>=1.12.0
+
+# HTTP requests for Ollama API
+requests>=2.31.0
+
+# Data manipulation and Excel export
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# JSON parsing (built-in, but listed for completeness)
+# json - standard library
+
+# System and path utilities (standard library)
+# os, sys, pathlib, time, datetime, re - standard library
+
